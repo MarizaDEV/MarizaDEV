@@ -51,7 +51,7 @@ object **MARIZA** {
          src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
   </a>
 </p>
-<h5 align="center">@NMarizaDEV</h5>
+<h5 align="center">@MarizaDEV</h5>
 
 <br>
 
