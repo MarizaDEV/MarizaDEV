@@ -1,4 +1,4 @@
-# Oie meu nome é Mariza sou desenvolvedora front-end e design 👋
+# Seja bem vindo  👋
  <a href="https://github.com/MarizaDEV/MarizaDEV"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Mariza;Web+Dev"></a>
 <img src= "https://github.com/MarizaDEV/MarizaDEV/blob/main/Frame%201.png" />
 
