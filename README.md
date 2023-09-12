@@ -2,8 +2,6 @@
  <a href="https://github.com/MarizaDEV/MarizaDEV"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Mariza;Web+Dev"></a>
 <img src= "https://github.com/MarizaDEV/MarizaDEV/blob/main/Frame%201.png" />
 
-Gosto de criar designers e páginas webs.
-
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
